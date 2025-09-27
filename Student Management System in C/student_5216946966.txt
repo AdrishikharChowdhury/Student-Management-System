@@ -1,0 +1,10 @@
+=========================
+Student: 5216946966
+=========================
+Name: Alexa Simmons
+Standard: 11th
+Section: G
+Roll no. 343
+Date of Birth: 23/02/2003
+Phone number: 34567777898
+

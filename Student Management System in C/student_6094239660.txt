@@ -1,0 +1,10 @@
+=========================
+Student: 6094239660
+=========================
+Name: John Doe
+Standard: 12th
+Section: S
+Roll no. 234
+Date of Birth: 12/04/2003
+Phone number: 0987878765
+

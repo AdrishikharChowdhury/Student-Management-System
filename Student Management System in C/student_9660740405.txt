@@ -1,0 +1,10 @@
+=========================
+Student: 9660740405
+=========================
+Name: Anjali Gupta
+Standard: 7th
+Section: F
+Roll no. 67
+Date of Birth: 21/04/2005
+Phone number: 0982289123
+

@@ -18,6 +18,7 @@ output/
 *.bak
 .DS_Store
 Thumbs.db
+student_manager
 
 # Ignore core dumps and crash logs
 core.*
